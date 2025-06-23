@@ -50,7 +50,7 @@ This project was created for **Akash Accelerate 2025** as a practical solution t
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/llm-depin-cost-estimator.git
+git clone https://github.com/thatnewyorker/llm-cost-estimator
 cd llm-depin-cost-estimator
 cargo build --release
 ```
