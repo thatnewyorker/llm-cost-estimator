@@ -97,3 +97,15 @@ Follow the CLI prompts to input your model parameters. The tool will return:
 **Gerard Cruzado**  
 Created for **Akash Accelerate 2025**  
 Built with 💻 Rust + 🔗 DePIN
+
+### 🔧 Example
+
+```bash
+cargo run -- --model Q8_0 --tokens-per-sec 25.5 --gpu-power-watts 320 --cost-per-kwh 0.13
+```
+
+This will:
+- Assume Q8_0 quantization
+- Estimate at 25.5 tokens/sec throughput
+- Use a 320W GPU
+- Calculate energy cost using $0.13/kWh
