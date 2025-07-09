@@ -1,7 +1,7 @@
 # 🧮 LLM Compute Cost Estimator for DePIN
 
 ![Rust](https://img.shields.io/badge/Rust-stable-orange?logo=rust)
-![License](https://img.shields.io/github/license/YOUR_USERNAME/llm-depin-cost-estimator)
+![License](https://img.shields.io/github/license/thatnewyorker/llm-depin-cost-estimator)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![Akash](https://img.shields.io/badge/depin-akash-red)
 
